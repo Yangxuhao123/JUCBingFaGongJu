@@ -18,6 +18,7 @@ public class AtomicIntegerFieldUpdaterDemo implements Runnable{
         for (int i = 0; i < 10000; i++) {
             peter.score++;
             scoreUpdater.getAndIncrement(tom);
+            System.out.println("master修改了一行代码");
         }
     }
 
