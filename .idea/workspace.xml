@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b61602c0-e257-4561-9251-faecc9f56866" name="Changes" comment="" />
+    <list default="true" id="b61602c0-e257-4561-9251-faecc9f56866" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/atomic/AtomicIntegerFieldUpdaterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/atomic/AtomicIntegerFieldUpdaterDemo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +40,6 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "D:/Code/0811/JUCBingFaGongJu",
     "nodejs_package_manager_path": "npm"
@@ -73,6 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1660185354739</updated>
       <workItem from="1660185356556" duration="478000" />
+      <workItem from="1660185867865" duration="335000" />
     </task>
     <servers />
   </component>
